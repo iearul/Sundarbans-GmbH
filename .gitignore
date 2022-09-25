@@ -1,0 +1,24 @@
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!system/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+
+#codeigniter folder
+ZettaTech/logs/*
+
+#assets
+/uploads/
+/assets/global/
+/assets/froala_editor/
+/assets/redactor/
+/assets/frontend/rs-plugin/
+*/images/
+*/img/
+*.jpg
+*.jpeg
+*.png
+*.gif
