@@ -82,7 +82,7 @@
 							<div class="cell-5">
 							    <ul>
 								    <li><a href="#"><i class="fa fa-envelope"></i>info@sundarbans-gmbh.eu</a></li>
-								    <li><span><i class="fa fa-phone"></i> Telefone: +49211134907</span></li>
+								    <li><span><i class="fa fa-phone"></i> Telefone: +49123456789</span></li>
 							    </ul>
 							</div>
 						</div>
