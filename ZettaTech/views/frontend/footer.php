@@ -73,7 +73,7 @@
         <div class="container">
             <div class="row">
                 <!-- footer copyrights left cell -->
-                <div class="copyrights cell-5">2019 &copy; <b><a href="https://sundarbans-gmbh.eu/" target="_blank">Sundarbans GmbH.</a></b> Developed & Maintained By <b><a href="http://www.zettatech.io/" target="_blank">Zettabyte Technologies.</a></b></div>
+                <div class="copyrights cell-5">2019 &copy; <b><a href="https://sundarbans-gmbh.eu/" target="_blank">Sundarbans GmbH.</a></b> Developed & Maintained By <b><a href="https://www.iearul.xyz/" target="_blank">iearul.</a></b></div>
 
                 <!-- footer social links right cell start -->
                 <div class="cell-7">
